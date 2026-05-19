@@ -4,7 +4,7 @@
 
 "An end-to-end Machine Learning project that analyzes loan applicants data and builds a predictive model to accurately classify loan approvals using Random Forest."
 
-🔹 Objectives of the Project:
+##🔹 Objectives of the Project:
 
  Perform Exploratory Data Analysis (EDA) to understand patterns in loan approval
 
@@ -20,7 +20,7 @@
 
  Use the trained model to predict loan approval for new applicants
 
-🚀 Skills Demonstrated in This Project
+##🚀 Skills Demonstrated in This Project
 
  Python (Pandas, NumPy, Matplotlib, Seaborn)
  Data Cleaning & EDA
@@ -28,11 +28,11 @@
  Machine Learning with Scikit-learn
  Model Evaluation (Accuracy, Confusion Matrix, Classification Report)
 
-📊 Dataset Description
+##📊 Dataset Description
 
 his dataset represents real-world loan application data used to analyze customer profiles and predict whether a loan will be approved or rejected. Each row  represents one applicant, and the columns include profile, financial, and asset-related information.
 
-Key Features in the Dataset:
+## Key Features in the Dataset:
 
 no_of_dependents – Number of dependents the applicant has
 education – Graduate / Not Graduate
