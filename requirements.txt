@@ -1,0 +1,8 @@
+## Skills Demonstrated in This Project
+
+Python (Pandas, NumPy, Matplotlib, Seaborn)
+Data Cleaning & EDA
+Feature Engineering
+Machine Learning with Scikit-learn
+Model Evaluation (Accuracy, Confusion Matrix, Classification Report)
+
