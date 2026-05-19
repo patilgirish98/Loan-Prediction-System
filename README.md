@@ -4,7 +4,7 @@
 
 "An end-to-end Machine Learning project that analyzes loan applicants data and builds a predictive model to accurately classify loan approvals using Random Forest."
 
-##🔹 Objectives of the Project:
+## 🔹 Objectives of the Project:
 
  Perform Exploratory Data Analysis (EDA) to understand patterns in loan approval
 
