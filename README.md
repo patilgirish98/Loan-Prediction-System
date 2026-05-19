@@ -6,31 +6,34 @@
 
 🔹 Objectives of the Project:
 
-          🔹 Perform Exploratory Data Analysis (EDA) to understand patterns in loan approval
+ Perform Exploratory Data Analysis (EDA) to understand patterns in loan approval
 
-           Data Cleaning, handling outliers
+ Data Cleaning, handling outliers
 
-Perform feature engineering and encoding of categorical variables
+ Perform feature engineering and encoding of categorical variables
 
-Visualize key insights using: Bar charts, Boxplots, Histograms, Scatter plots, Correlation heatmaps
+ Visualize key insights using: Bar charts, Boxplots, Histograms, Scatter plots, Correlation heatmaps
 
-Compare machine learning models: Logistic Regression, Decision Tree, Random Forest
+ Compare machine learning models: Logistic Regression, Decision Tree, Random Forest
 
-Select and build the best-performing model (Random Forest)
+ Select and build the best-performing model (Random Forest)
 
-Use the trained model to predict loan approval for new applicants
+ Use the trained model to predict loan approval for new applicants
 
-🚀 Skills Demonstrated in This Project¶
-Python (Pandas, NumPy, Matplotlib, Seaborn)
-Data Cleaning & EDA
-Feature Engineering
-Machine Learning with Scikit-learn
-Model Evaluation (Accuracy, Confusion Matrix, Classification Report)
+🚀 Skills Demonstrated in This Project
 
-📊 Dataset Description¶
-This dataset represents real-world loan application data used to analyze customer profiles and predict whether a loan will be approved or rejected. Each row represents one applicant, and the columns include profile, financial, and asset-related information.
+ Python (Pandas, NumPy, Matplotlib, Seaborn)
+ Data Cleaning & EDA
+ Feature Engineering
+ Machine Learning with Scikit-learn
+ Model Evaluation (Accuracy, Confusion Matrix, Classification Report)
+
+📊 Dataset Description
+
+his dataset represents real-world loan application data used to analyze customer profiles and predict whether a loan will be approved or rejected. Each row  represents one applicant, and the columns include profile, financial, and asset-related information.
 
 Key Features in the Dataset:
+
 no_of_dependents – Number of dependents the applicant has
 education – Graduate / Not Graduate
 self_employed – Whether the applicant is self-employed
