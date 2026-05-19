@@ -6,7 +6,7 @@
 
 🔹 Objectives of the Project:
 
-           Perform Exploratory Data Analysis (EDA) to understand patterns in loan approval
+          🔹 Perform Exploratory Data Analysis (EDA) to understand patterns in loan approval
 
            Data Cleaning, handling outliers
 
