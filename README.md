@@ -30,7 +30,7 @@
 
 ## 📊 Dataset Description
 
-his dataset represents real-world loan application data used to analyze customer profiles and predict whether a loan will be approved or rejected. Each row  represents one applicant, and the columns include profile, financial, and asset-related information.
+This dataset represents real-world loan application data used to analyze customer profiles and predict whether a loan will be approved or rejected. Each row  represents one applicant, and the columns include profile, financial, and asset-related information.
 
 ## Key Features in the Dataset:
 
