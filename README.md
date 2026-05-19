@@ -35,14 +35,25 @@ his dataset represents real-world loan application data used to analyze customer
 ## Key Features in the Dataset:
 
 no_of_dependents – Number of dependents the applicant has
+
 education – Graduate / Not Graduate
+
 self_employed – Whether the applicant is self-employed
+
 income_annum – Annual income of the applicant
+
 loan_amount – Loan amount requested
+
 loan_term – Loan repayment time (years)
-cibil_score – Credit score indicating creditworthiness
+
+cibil_score – Credit score indicating creditworthines
+
 residential_assets_value – Value of residential assets
+
 commercial_assets_value – Value of commercial assets
+
 luxury_assets_value – Value of luxury assets
+
 bank_asset_value – Bank balance / financial assets
+
 loan_status (Target variable) – Approved (1) or Rejected (0)
